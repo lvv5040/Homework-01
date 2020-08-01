@@ -34,6 +34,9 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
+SCREENSHOT:
+https://github.com/lvv5040/Homework-01/issues/1
+
 ## Review
 
 You are required to submit the following for review:
